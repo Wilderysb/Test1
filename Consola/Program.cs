@@ -7,9 +7,11 @@ namespace Consola
     {
         static void Main(string[] args)
         {
+            ChangeString changeString = new ChangeString();
 
-          
-            Console.WriteLine();
+            string palabra = "Palabra 123";
+
+            Console.WriteLine(changeString.build(palabra));
 
             Console.Read();
 

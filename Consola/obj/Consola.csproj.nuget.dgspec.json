@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projects\\Ptecnica\\Consola\\Consola.csproj": {}
+    "F:\\Projects\\AnovoTest1\\Test1\\Consola\\Consola.csproj": {}
   },
   "projects": {
-    "F:\\Projects\\Ptecnica\\Consola\\Consola.csproj": {
+    "F:\\Projects\\AnovoTest1\\Test1\\Consola\\Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\Ptecnica\\Consola\\Consola.csproj",
+        "projectUniqueName": "F:\\Projects\\AnovoTest1\\Test1\\Consola\\Consola.csproj",
         "projectName": "Consola",
-        "projectPath": "F:\\Projects\\Ptecnica\\Consola\\Consola.csproj",
+        "projectPath": "F:\\Projects\\AnovoTest1\\Test1\\Consola\\Consola.csproj",
         "packagesPath": "C:\\Users\\administrador\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\Ptecnica\\Consola\\obj\\",
+        "outputPath": "F:\\Projects\\AnovoTest1\\Test1\\Consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",

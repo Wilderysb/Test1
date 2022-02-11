@@ -31,7 +31,7 @@ namespace Consola
 
                 contador++;
             }
-            string.Join("", escritoSplit);
+           return string.Join("", escritoSplit);
         }
     }
 

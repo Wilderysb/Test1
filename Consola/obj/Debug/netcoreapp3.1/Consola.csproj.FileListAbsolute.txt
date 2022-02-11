@@ -12,3 +12,17 @@ F:\Projects\Ptecnica\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileI
 F:\Projects\Ptecnica\Consola\obj\Debug\netcoreapp3.1\Consola.dll
 F:\Projects\Ptecnica\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
 F:\Projects\Ptecnica\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
+F:\Projects\AnovoTest1\Test1\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+F:\Projects\AnovoTest1\Test1\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+F:\Projects\AnovoTest1\Test1\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+F:\Projects\AnovoTest1\Test1\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+F:\Projects\AnovoTest1\Test1\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+F:\Projects\AnovoTest1\Test1\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+F:\Projects\AnovoTest1\Test1\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.AssemblyReference.cache
+F:\Projects\AnovoTest1\Test1\Consola\obj\Debug\netcoreapp3.1\Consola.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\AnovoTest1\Test1\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+F:\Projects\AnovoTest1\Test1\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+F:\Projects\AnovoTest1\Test1\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+F:\Projects\AnovoTest1\Test1\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+F:\Projects\AnovoTest1\Test1\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+F:\Projects\AnovoTest1\Test1\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
