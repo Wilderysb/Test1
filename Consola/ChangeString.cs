@@ -28,7 +28,6 @@ namespace Consola
                     escritoSplit[contador] = char.Parse(arrayAlfabeto[indice + 1]);
                 }
 
-
                 contador++;
             }
            return string.Join("", escritoSplit);
