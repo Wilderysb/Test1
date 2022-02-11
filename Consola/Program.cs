@@ -7,7 +7,7 @@ namespace Consola
     {
         static void Main(string[] args)
         {
-            ChangeString changeString = new ChangeString();
+            ChangeString objChangeString = new ChangeString();
 
             string palabra = "Palabra 123";
 
