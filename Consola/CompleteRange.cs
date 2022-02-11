@@ -9,24 +9,19 @@ namespace Consola
     {
         public int[] build(int[] arrayNumber)
         {
-
-            
-
             var max = arrayNumber.Max();
 
             int[] newArray = new int[max];
 
-            for (int i=0; i < max; i++)
+            for (int i = 0; i < max; i++)
             {
-                newArray[i]=i+1;
-            
-            } 
-                
+                newArray[i] = i + 1;
+
+            }
+
             return newArray;
 
-        }
-
-    
+        }  
     }
 }
 
